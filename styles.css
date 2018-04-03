@@ -12,15 +12,51 @@ a {
     color: teal;
 }
 
+span {
+    color: rgb(178,34,34);
+    font-weight: bold;
+}
+
 a:hover {
     font-weight: bold;
     color: #DC143C;
 }
 
+
 .boxes {
-    display: inline-block;
-    margin: 1em 5em;
-    padding: 2em 3em;
+    display: block;
+    margin: auto;
+    margin-top: 2em;
+    padding: 2em 5em;
     border-style: solid;
     border-radius: 5px;
+    width: 20%;
+    height: 15em;
+    align-self: center;
+}
+
+.image {
+    width: 1.5em;
+    height: 1.5em;
+    background-color:#FF0080;
+    position: relative;
+    left: -3em;
+    bottom: 3em;
+
+}
+
+#box1 {
+    background-color: rgba(255, 255, 0, 0.75);
+}
+
+#box2 {
+    background-color: rgba(0, 128, 128, 0.75);
+}
+
+#box3 {
+    background-color: rgba(255, 0, 0, 0.75);
+}
+
+#box4 {
+    background-color: rgba(106, 182, 125, 0.75);
 }

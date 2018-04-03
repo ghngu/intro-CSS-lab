@@ -6,3 +6,4 @@ Fonts:
 
 General:
 * Getting use to general instructions for raw CSS coding.
+* Practice Positioning.
