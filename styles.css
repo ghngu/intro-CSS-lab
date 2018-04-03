@@ -1,0 +1,26 @@
+* {
+    font-family: 'Roboto condensed', Arial, sans-serif;
+    background-color: #D3D3D3;
+}
+
+h2, p, .readme-wrapper {
+    text-align: center;
+}
+
+a { 
+    text-decoration: none;
+    color: teal;
+}
+
+a:hover {
+    font-weight: bold;
+    color: #DC143C;
+}
+
+.boxes {
+    display: inline-block;
+    margin: 1em 5em;
+    padding: 2em 3em;
+    border-style: solid;
+    border-radius: 5px;
+}
