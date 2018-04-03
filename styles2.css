@@ -1,0 +1,52 @@
+h1 {
+    color: rgb(255, 230, 0);
+}
+
+div {
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
+}
+
+.top3 {
+    color: teal;
+}
+
+.animated {
+    color: red;
+}
+
+.friends {
+    color: teal;
+
+}
+
+.places {
+    color: seagreen;
+
+}
+
+.restaurants {
+    color: purple;
+
+}
+
+#rank1 {
+    color: purple;
+}
+
+#rank2 {
+    color:blue;
+}
+
+#rank3 {
+    color:green;
+}
+
+#rank4 {
+    color: black;
+}
+
+#rank5 {
+    color: chartreuse;
+}
